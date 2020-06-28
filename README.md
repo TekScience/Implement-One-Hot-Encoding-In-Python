@@ -5,4 +5,4 @@ The youtube link - https://youtu.be/woI4PUaJVO0
 
 Data.csv is the dataset used for implementing one hot encoding technique in python.
 
-Refer the one hot encoding notebook file given as One_Hot_Encoding.ipynb
+Refer the notebook file - One_Hot_Encoding.ipynb
